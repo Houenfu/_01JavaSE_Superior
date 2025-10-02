@@ -1,0 +1,12 @@
+JavaSE: Java语言的标准版, 用于桌面应用的开发！为JavaEE打基础！
+    桌面应用: Java并不占优势！一般是C/C++
+JavaME: Java语言的小型版, 用于嵌入式电子设备或小型移动设备, 已经凉凉了！android & ios
+JavaEE: Java语言的企业版, 用于web网站开发!浏览器+服务器！NO.1
+
+Java:
+    桌面应用开发！IDEA, Clion, Pycharm， 各种税务管理软件
+    企业级应用开发！微服务, SpringCloud
+    移动应用开发！鸿蒙, android, 医疗设备
+    科学计算！matlab
+    大数据开发！hadoop
+    游戏开发！我的世界, MiniCraft

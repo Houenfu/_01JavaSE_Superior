@@ -1,2 +1,1 @@
-打开cmd: win+r, 输入cmd
-
+打开cmd: win+r, 输入cmd, 按下回车
