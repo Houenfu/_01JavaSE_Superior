@@ -48,3 +48,32 @@ public class Main {
         // float类型变量: 需要加入F标识（大小写都可以）
     }
 }
+
+// 练习：定义变量的三个练习！
+class Example{
+
+    public static void main(String[] args) {
+
+        // 定义变量！
+        String name="黑马谢广坤";
+        int age=18;
+        char gender='男';
+        double height=180.7;
+        boolean flag=true;
+
+        System.out.println(name+"_"+age+"_"+gender+"_"+height+"_"+flag);
+        // ---------------------------------------------------------------
+        // No.2
+        String title="送初恋回家";
+        String actors="刘鑫, 张雨堤, 高媛";
+        int year=2020;
+
+        System.out.println(title+"_"+actors+"_"+year);
+        // -------------------------------------------------------------------
+        // No.3：输出商品信息
+        double price=5299.00;
+        String brand="HuaWei";
+
+        System.out.println("￥"+price+"_"+brand);
+    }
+}
